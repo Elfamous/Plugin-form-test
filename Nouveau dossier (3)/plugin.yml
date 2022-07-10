@@ -1,0 +1,9 @@
+name: Coretest
+author: Thrysis
+api: 4.0.0
+main: zeyroz\tuto\main
+version: 1.0.0
+
+permissions:
+  bonjour.cmd:
+    default: true
